@@ -1,0 +1,87 @@
+
+.he{
+    margin-bottom: 5px;
+    padding-top: 16px;
+    font-family: cursive;
+}
+
+.bg-light{
+    background-color:crimson!important ;
+}
+.img{
+    height: 400px;
+    width: 100%;
+}
+@media screen and (max-width: 576px) {
+    .he {
+        text-align: center;    }
+  }
+  img{
+      width: 160px;
+      height: 160px;
+
+  }
+.table{
+    width: 80%;
+    margin-left: 6%;
+}
+#model{
+    display: none;
+}
+footer{
+    background-color: #b5b3b3;
+    height: 344px;
+
+
+}
+.footerContact{
+    background-color: #b5b3b3;
+
+}
+
+.row{
+ margin-bottom: 10px;
+
+ height: 195px;
+ padding-top: 25px;
+ border-radius: 50px;
+}
+#menu li{
+    margin-left: 15px;
+    list-style: none;
+
+}
+#menu {
+display: flex;
+}
+header
+{
+    height: 68px;
+    margin-bottom: 12px;
+    background-color: #b5b3b3;
+
+}
+#beaut{
+    font-family: cursive;
+    font-size: larger;
+}
+#myInput{
+    margin-left: 6%;
+    width: 85%;
+
+}
+#FilterTable{
+    margin-left: 6%;
+}
+header a{
+    font-size: larger;
+}
+ a{
+    font-family: cursive;
+
+    color: darkblue;
+}
+.buttonCreate{
+    margin-bottom: 10px;
+}
+
